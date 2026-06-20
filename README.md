@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Proderf
 - 👀 I’m interested in innovating and developing things that are cool, useful, and helpful
 - 🌱 I’m currently learning Mechanical (Aerospace) Engineering, Business Administration, and Computer Science
-- 💞️ I’m looking to collaborate on I don't really know...im more of a tinker and experiment until I find a porject I am drawn too
+- 💞️ I’m looking to collaborate on I don't really know...im more of a tinkerer and experiment until I find a project I am drawn too
 - 📫 How to reach me: Im sure you can figure it out
 
 <!---
